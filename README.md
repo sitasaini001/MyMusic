@@ -1,7 +1,7 @@
 # MyMusic
 A MyMusic is a web application that replicates the basic features of a music streaming platform, built using web technologies like HTML, CSS, and JavaScript, allowing users to play and control audio with an interactive interface.
 
-Key Features:
+# Key Features:
 1.**Responsive Side Navigation**: The page includes a "Your Library" sidebar that displays a list of available tracks. In mobile or tablet views (as seen in the second image), this sidebar transforms into a collapsible overlay with a close button to save screen real estate.
 
 2.**Curated Content Grid**: The "Trending Songs" section uses a dynamic grid layout featuring high-quality album art, catchy titles (e.g., "Chill vibe," "Crazy"), and brief descriptions to engage users visually.
